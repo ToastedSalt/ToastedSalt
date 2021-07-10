@@ -5,13 +5,13 @@
 
 ###  Student looking to get into automation(specifically python) ###
 
-Tennis Tryhard
+- [x] Tennis Tryhard
 
-Piano player
+- [x] Piano player
 
-Enjoys technology
+- [x] Enjoys technology
 
-~~Has common sense~~
+- [ ] Has common sense
 
 -----
 
