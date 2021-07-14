@@ -3,16 +3,16 @@
  
 
 
-###  Student looking to get into automation(specifically python) ###
+###  Student looking to get into automation (specifically python) ###
 
-Tennis Tryhard
+`Tennis Tryhard`
 
-Piano player
+`Piano enthusiast`
 
-Enjoys technology
+`Tech lover`
 
-~~Has common sense~~
+`~~common sense~~`
 
 -----
 
-I will update this README as I progress
+I will be updating this README as I progress through GitHub!
